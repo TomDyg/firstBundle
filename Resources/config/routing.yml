@@ -1,0 +1,3 @@
+tomdygfirst_homepage:
+    path:     /
+    defaults: { _controller: tomdygfirstBundle:Default:index }
